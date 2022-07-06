@@ -1,6 +1,6 @@
 
+<h2 align="center">Hi👋, I'm Harja</h2>
 
-<h3 align="center">Hi👋, I'm Harja</h3>
-
-<p align="center" src="https://github-readme-streak-stats.herokuapp.com?user=harjakreppu&theme=github-dark-blue)></p>
-<p align="center" src="https://git.io/streak-stats"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harjakreppu&show_icons=true&theme=tokyonight&layout=compact"</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harjakreppu&show_icons=true&theme=tokyonight"</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=harjakreppu&theme=github-dark-blue"></img></p>
