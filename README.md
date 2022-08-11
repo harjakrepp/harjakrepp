@@ -1,6 +1,10 @@
 
-<h1 align="center">Hi👋, I'm Harja</h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+<h1 align="center">
+Hi
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"/>
+, I'm Harja
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="38"/>
+</h1>
 
 <p align="center"><img src="img/standard.gif"></img></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=harjakrepp&label=Profile%20views&color=9e1a03&style=flat" alt="harjakrepp" /></p>
