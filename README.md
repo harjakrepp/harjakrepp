@@ -6,7 +6,7 @@ Hi
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="38"/>
 </h1>
 
-<p align="center"><img src="img/standard.gif"></img></p>
+<p align="center"><img src="img/standard.gif"></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=harjakrepp&label=Profile%20views&color=9e1a03&style=flat" alt="harjakrepp" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harjakrepp&show_icons=true&theme=tokyonight&layout=compact" alt="harjakrepp"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=harjakrepp&show_icons=true&theme=tokyonight" alt="harjakrepp"></p>
