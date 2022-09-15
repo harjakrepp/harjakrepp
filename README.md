@@ -16,9 +16,12 @@ Hi
 ***
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=18> Language & Tools :</h3>
 <p align="center">
-  <img src="img/svgicons/html5.svg" color="#E34F26" width="35px">
-  <img src="img/svgicons/html5.svg" color="#E34F26" width="35px">
-  <img src="img/svgicons/html5.svg" color="#E34F26" width="35px">
+  <img src="img/svgicons/html5.svg" width="35px">
+  <img src="img/svgicons/css.svg" width="35px">
+  <img src="img/svgicons/js.svg" width="35px">
+  <img src="img/svgicons/github.svg" width="35px">
+  <img src="img/svgicons/heroku.svg" width="35px">
+  <img src="img/svgicons/netlify.svg" width="35px">
 </p>
 
 ***
